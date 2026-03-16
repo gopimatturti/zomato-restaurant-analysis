@@ -129,24 +129,16 @@ For Investors:
 
 ---
 
-# 📂 Project Structure
-zomato-restaurant-analysis
-│
-├── data
-│ ├── zomato.xlsx
-│ └── zomato_clean.csv
-│
-├── python
-│ ├── 01_zomato_data_preprocessing.py
-│ └── 02_zomato_insights.py
-│
-├── powerbi
-│ ├── 04_Zomato_Dashboard.pbix
-│ └── 04_Zomato_Dashboard.pdf
-│
-└── documentation
-└── Project_Report.pdf
+# 🔄 Project Workflow
 
+The project follows a structured data analysis workflow:
+
+1. Data Collection – Zomato Bengaluru dataset
+2. Data Cleaning – Python (Pandas, NumPy)
+3. Data Transformation – Feature engineering & category creation
+4. Data Modeling – Clean dataset prepared for Power BI
+5. Visualization – Interactive dashboards built in Power BI
+6. Insights & Recommendations – Business insights derived from analysis
 
 ---
 
