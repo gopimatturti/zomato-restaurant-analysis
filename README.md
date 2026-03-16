@@ -130,3 +130,29 @@ For Investors:
 ---
 
 # 📂 Project Structure
+zomato-restaurant-analysis
+│
+├── data
+│ ├── zomato.xlsx
+│ └── zomato_clean.csv
+│
+├── python
+│ ├── 01_zomato_data_preprocessing.py
+│ └── 02_zomato_insights.py
+│
+├── powerbi
+│ ├── 04_Zomato_Dashboard.pbix
+│ └── 04_Zomato_Dashboard.pdf
+│
+└── documentation
+└── Project_Report.pdf
+
+
+---
+
+# 👤 Author
+
+**Gopi**
+
+Data Analytics Project  
+Python | Power BI | Data Visualization
