@@ -148,3 +148,12 @@ The project follows a structured data analysis workflow:
 
 Data Analytics Project  
 Python | Power BI | Data Visualization
+
+# 🚀 Future Improvements
+
+Possible future enhancements for this project:
+
+- Build predictive models for restaurant success
+- Perform sentiment analysis on customer reviews
+- Create real-time dashboards using live APIs
+- Deploy dashboard on Power BI Service
