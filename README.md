@@ -105,6 +105,28 @@ Final summary including:
 
 ---
 
+# 📷 Dashboard Preview
+
+### Project Overview
+![Overview](screenshots/page1_overview.jpg)
+
+### Location Analysis
+![Location](screenshots/page2_location.jpg)
+
+### Ratings & Services Analysis
+![Ratings](screenshots/page3_ratings.jpg)
+
+### Restaurant Types & Cost Analysis
+![Cost](screenshots/page4_cost.jpg)
+
+### Best Restaurants & Top Chains
+![Best Restaurants](screenshots/page5_best.jpg)
+
+### Key Insights & Recommendations
+![Insights](screenshots/page6_insights.jpg)
+
+---
+
 # 📈 Key Insights
 
 - **65% of restaurants offer online delivery**
@@ -142,13 +164,6 @@ The project follows a structured data analysis workflow:
 
 ---
 
-# 👤 Author
-
-**Gopi**
-
-Data Analytics Project  
-Python | Power BI | Data Visualization
-
 # 🚀 Future Improvements
 
 Possible future enhancements for this project:
@@ -157,3 +172,19 @@ Possible future enhancements for this project:
 - Perform sentiment analysis on customer reviews
 - Create real-time dashboards using live APIs
 - Deploy dashboard on Power BI Service
+
+---
+
+🔗 Interactive Dashboard Preview available in the Power BI file
+
+---
+
+# 👤 Author
+
+**Gopi**
+
+Data Analytics Project  
+Python | Power BI | Data Visualization
+
+
+
